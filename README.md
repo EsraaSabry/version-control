@@ -1,20 +1,20 @@
-#To remove branch locally
+# To remove branch locally
 *git branch -d branch_name*
 
 
-#To remove branch remotly
+# To remove branch remotly
 *git push origin :branch_name*
 
 
-#To list tags
+# To list tags
 *git tag*
 
-#To delete tag locally
+# To delete tag locally
 *git tag -d tag*
 
 
 
-#To delete tag remotly
+# To delete tag remotly
 *git push origin --delete tag*
 
 
